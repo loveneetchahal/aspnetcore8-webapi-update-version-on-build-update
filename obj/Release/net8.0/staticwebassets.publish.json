@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8jCqeHjSnHa/2s+F8WKZwOIuvY1SHrbJdtnXuuc5aUQ=",
+  "Source": "aspnetcore8-webapi-update-version-on-build-update",
+  "BasePath": "_content/aspnetcore8-webapi-update-version-on-build-update",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

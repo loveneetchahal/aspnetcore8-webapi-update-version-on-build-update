@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\aspnetcore8-webapi-update-version-on-build-update.props" />
+</Project>

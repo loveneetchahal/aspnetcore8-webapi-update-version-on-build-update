@@ -1,0 +1,6 @@
+@aspnetcore8_webapi_update_version_on_build_update_HostAddress = http://localhost:5221
+
+GET {{aspnetcore8_webapi_update_version_on_build_update_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
