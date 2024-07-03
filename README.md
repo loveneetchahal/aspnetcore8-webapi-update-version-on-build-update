@@ -1,0 +1,1 @@
+# aspnetcore8-webapi-update-version-on-build-update
